@@ -1,0 +1,15 @@
+[theme]
+# widget highlights, slider, radio dots, button accent
+primaryColor = "#2E7D32"         # green 700
+
+# page background (right side)
+backgroundColor = "#F4FBF4"      # very light green
+
+# sidebar / containers background (left & cards)
+secondaryBackgroundColor = "#E8F5E9"   # light mint
+
+# global text color
+textColor = "#0B2E13"            # deep green text
+
+# optional: choose your font
+font = "Poppins"

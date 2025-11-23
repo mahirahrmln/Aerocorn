@@ -1,0 +1,16 @@
+# JANGAN UPLOAD – secrets
+notes2refer.txt
+corn-maturity-ai-firebase-adminsdk-fbsvc-42d209c2e4.json
+
+# Python cache
+__pycache__/
+
+# Image / output folders (optional kalau tak nak besar sangat repo)
+inference_out/
+processed_images/
+raw_images/
+not corn/
+
+# Misc
+.DS_Store
+aerocorn_streamlit_package.zip

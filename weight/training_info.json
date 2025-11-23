@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.875,
+  "total_training_images": 902,
+  "mature_images": 475,
+  "immature_images": 427,
+  "ratio": 0.9,
+  "training_date": "2024-11-09",
+  "model_type": "YOLOv8s-cls",
+  "performance": "87.5% validation accuracy"
+}
